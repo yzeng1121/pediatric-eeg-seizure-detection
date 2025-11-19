@@ -1,8 +1,5 @@
 # Machine Learning Project Proposal
 
-### Group Members
-Yuxin Zeng, Roberto Brian Sugira, Penuel Stanley-Zebulon
-
 ## Topic
 Detection of Epilepsy and Seizure Using EEG Scans
 
