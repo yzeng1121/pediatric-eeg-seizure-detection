@@ -1,6 +1,6 @@
 # Machine Learning Project Proposal
 
-## Group Members
+### Group Members
 Yuxin Zeng, Roberto Brian Sugira, Penuel Stanley-Zebulon
 
 ## Topic
@@ -28,6 +28,6 @@ We will be using convolutional neural networks (CNNs) and experimenting with dif
 
 ## Sources of Bias
 - Demographic variability: different datasets originate from varying populations (pediatric vs. adult, Turkish vs. international subjects), which could introduce population bias
-- Data imbalance: some datasets may contain more non-seizure EEG samples than seizure ones, leading to skewed model performance
+- Data imbalance: some datasets contains more non-seizure EEG samples than seizure ones, leading to skewed model performance
 - EEG equipment and preprocessing differences: variations in electrode placement or signal filtering can affect model generalization
 - Labeling inconsistencies: mislabeling or differing clinical criteria for seizures may distort training accuracy
