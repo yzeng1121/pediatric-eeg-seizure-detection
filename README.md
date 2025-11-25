@@ -1,6 +1,4 @@
-# Machine Learning Project Proposal
-
-### Topic
+# Detection of Epilepsy and Seizure Using EEG Scans
 Detection of Epilepsy and Seizure Using EEG Scans
 
 ## Research Question
