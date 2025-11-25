@@ -1,4 +1,4 @@
-# Detection of Epilepsy and Seizure Using EEG Scans
+# Detection of Epilepsy and Seizures Using 1D CNNs
 Detection of Epilepsy and Seizure Using EEG Scans
 
 ## Research Question
